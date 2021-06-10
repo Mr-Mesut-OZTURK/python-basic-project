@@ -1,3 +1,4 @@
 ## python-basic-project
 
-- guess-the-number
+- Stanford University assignment guess the number game
+- Stanford University assignment maze game
